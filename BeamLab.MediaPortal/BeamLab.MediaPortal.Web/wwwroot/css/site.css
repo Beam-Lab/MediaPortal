@@ -1,0 +1,41 @@
+﻿.header {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.jumbotron {
+    width: 100%;
+    background: linear-gradient(180deg, gray 0%, #ffffff 75%);
+    border-radius: 0 !important;
+}
+
+    .jumbotron a {
+        text-decoration: none;
+        color: inherit;
+    }
+
+    .jumbotron a:hover {
+        text-decoration: none;
+        color: inherit;
+    }
+
+.thumbnail {
+    background: black;
+    padding: 0;
+}
+
+.caption {
+    background: white;
+}
+
+.footermenu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+    .footermenu > li {
+        float: left;
+        margin-right: 1em;
+    }
